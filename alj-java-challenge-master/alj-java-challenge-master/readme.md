@@ -45,8 +45,20 @@ Application (with the embedded H2 database) is ready to be used ! You can access
 
 #### Your experience in Java
 
+
+changes:
+Removed getters and setters from employee.java(entity class)
+and added all args constructor and no args constructor
+
+@RequestBody in saveEmployee method in Controller
+
+added swaggers into an other class
+
+if i had time
+-i wanted to do caching using spring data redis.
+-auth security
+
 Please let us know more about your Java experience in a few sentences. For example:
 
-- I have 3 years experience in Java and I started to use Spring Boot from last year
-- I'm a beginner and just recently learned Spring Boot
-- I know Spring Boot very well and have been using it for many years
+- I have 4 years experience in Java. i have used SprintBoot for 1 year
+
